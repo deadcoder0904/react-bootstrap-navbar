@@ -45,7 +45,7 @@ Declare ```< Navbar /> ``` Component by passing ``` items ``` array declared abo
 #Default Values
 ```
 
-navColor : "#101010"
+navColor : "#101010",
 navBorder : "#080808",
 brandColor : "#9d9d9d"
 
