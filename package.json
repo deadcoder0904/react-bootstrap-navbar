@@ -1,0 +1,20 @@
+{
+  "name": "react-bootstrap-navbar",
+  "version": "1.0.0",
+  "description": "React JS Bootstrap Navbar Component Without Flux Using Browserify",
+  "main": "app.js",
+  "scripts": {
+    "start": "watchify src/main.jsx -v -t [ babelify --presets [ react ] ] -o public/js/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-react": "^6.1.18",
+    "babelify": "^7.2.0",
+    "express": "^4.13.4",
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "watchify": "^3.6.1"
+  }
+}
