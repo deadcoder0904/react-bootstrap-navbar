@@ -54,5 +54,5 @@ brandColor : "#9d9d9d"
 #Images
 
 React Bootstrap Navbar <br />
-![alt tag](http://imgur.com/uAFksst.png)
+![alt tag](http://imgur.com/jeMSGXQ.png)
 
